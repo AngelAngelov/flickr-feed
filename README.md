@@ -2,6 +2,13 @@
 
 ## Project setup
 ```
+Must have vue-cli preinstall on your computer. The version used for current project is 3.1.0
+
+npm install -g @vue/cli@3.1.0
+# OR
+yarn global add @vue/cli@3.1.0
+
+Run
 npm install
 ```
 
@@ -13,11 +20,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your tests
-```
-npm run test
 ```
 
 ### Lints and fixes files
@@ -36,4 +38,3 @@ npm run test:unit
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
